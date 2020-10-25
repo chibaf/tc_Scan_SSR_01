@@ -2,3 +2,5 @@
 reading logger of TC and controling SSR
 
 Original code was written by M. Kinoshita
+
+usage: python3 tc_Scan_SSR_201024_0.py test201025d_usb2.csv /dev/ttyUSB2
